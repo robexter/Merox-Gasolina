@@ -1,4 +1,4 @@
-const CACHE_NAME = 'merox-gasolina-concept-v1-concept-v5-52-mobile-20261015';
+const CACHE_NAME = 'merox-gasolina-concept-v7-20261015';
 
 const APP_SHELL = [
   './',
